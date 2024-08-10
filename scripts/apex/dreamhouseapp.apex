@@ -1,1 +1,2 @@
-System.debug(HouseService.getRecords());
+HouseService hs = new HouseService();
+System.debug(hs.getRecords());
